@@ -62,6 +62,7 @@ change2git(){
     git submodule set-url packages/v2ray git@github.com:awesome-openwrt/v2ray.git
     git submodule set-url packages/v2ray-plugin git@github.com:awesome-openwrt/v2ray-plugin.git
     git submodule set-url packages/vlmcsd git@github.com:awesome-openwrt/vlmcsd.git
+    git submodule set-url packages/naiveproxy git@github.com:awesome-openwrt/naiveproxy.git
 }
 
 change2https(){
@@ -112,6 +113,7 @@ change2https(){
     git submodule set-url packages/v2ray https://github.com/awesome-openwrt/v2ray.git
     git submodule set-url packages/v2ray-plugin https://github.com/awesome-openwrt/v2ray-plugin.git
     git submodule set-url packages/vlmcsd https://github.com/awesome-openwrt/vlmcsd.git
+    git submodule set-url packages/naiveproxy https://github.com/awesome-openwrt/naiveproxy.git
 }
 
 while true; do

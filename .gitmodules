@@ -138,3 +138,6 @@
 	url = https://github.com/awesome-openwrt/luci-app-netdata.git
 [submodule "luci-apps/luci-app-control-mia"]
 	url = https://github.com/awesome-openwrt/luci-app-control-mia.git
+[submodule "packages/naiveproxy"]
+	path = packages/naiveproxy
+	url = https://github.com/awesome-openwrt/naiveproxy.git
