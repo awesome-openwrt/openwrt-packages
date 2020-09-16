@@ -64,9 +64,6 @@
 [submodule "packages/ipt2socks"]
 	path = packages/ipt2socks
 	url = https://github.com/awesome-openwrt/ipt2socks.git
-[submodule "packages/kcptun"]
-	path = packages/kcptun
-	url = https://github.com/awesome-openwrt/kcptun.git
 [submodule "packages/luci-i18n-sqm"]
 	path = packages/luci-i18n-sqm
 	url = https://github.com/awesome-openwrt/luci-i18n-sqm.git
