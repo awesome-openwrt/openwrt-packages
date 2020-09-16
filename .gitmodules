@@ -147,3 +147,6 @@
 [submodule "packages/trojan-go"]
 	path = packages/trojan-go
 	url = https://github.com/awesome-openwrt/trojan-go.git
+[submodule "packages/kcptun"]
+	path = packages/kcptun
+	url = https://github.com/awesome-openwrt/kcptun.git
