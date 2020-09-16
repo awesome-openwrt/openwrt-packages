@@ -1,152 +1,152 @@
 [submodule "luci-apps/luci-app-arpbind"]
 	path = luci-apps/luci-app-arpbind
-	url = https://github.com/awesome-openwrt/luci-app-arpbind.git
+	url = git@github.com:awesome-openwrt/luci-app-arpbind.git
 [submodule "luci-apps/luci-app-control-timewol"]
 	path = luci-apps/luci-app-control-timewol
-	url = https://github.com/awesome-openwrt/luci-app-control-timewol.git
+	url = git@github.com:awesome-openwrt/luci-app-control-timewol.git
 [submodule "luci-apps/luci-app-control-webrestriction"]
 	path = luci-apps/luci-app-control-webrestriction
-	url = https://github.com/awesome-openwrt/luci-app-control-webrestriction.git
+	url = git@github.com:awesome-openwrt/luci-app-control-webrestriction.git
 [submodule "luci-apps/luci-app-control-weburl"]
 	path = luci-apps/luci-app-control-weburl
-	url = https://github.com/awesome-openwrt/luci-app-control-weburl.git
+	url = git@github.com:awesome-openwrt/luci-app-control-weburl.git
 [submodule "luci-apps/luci-app-fileassistant"]
 	path = luci-apps/luci-app-fileassistant
-	url = https://github.com/awesome-openwrt/luci-app-fileassistant.git
+	url = git@github.com:awesome-openwrt/luci-app-fileassistant.git
 [submodule "luci-apps/luci-app-ipsec-vpnserver"]
 	path = luci-apps/luci-app-ipsec-vpnserver
-	url = https://github.com/awesome-openwrt/luci-app-ipsec-vpnserver.git
+	url = git@github.com:awesome-openwrt/luci-app-ipsec-vpnserver.git
 [submodule "luci-apps/luci-app-passwall"]
 	path = luci-apps/luci-app-passwall
-	url = https://github.com/awesome-openwrt/luci-app-passwall.git
+	url = git@github.com:awesome-openwrt/luci-app-passwall.git
 [submodule "luci-apps/luci-app-passwall-mini"]
 	path = luci-apps/luci-app-passwall-mini
-	url = https://github.com/awesome-openwrt/luci-app-passwall-mini.git
+	url = git@github.com:awesome-openwrt/luci-app-passwall-mini.git
 [submodule "luci-apps/luci-app-pptp-vpnserver"]
 	path = luci-apps/luci-app-pptp-vpnserver
-	url = https://github.com/awesome-openwrt/luci-app-pptp-vpnserver.git
+	url = git@github.com:awesome-openwrt/luci-app-pptp-vpnserver.git
 [submodule "luci-apps/luci-app-ramfree"]
 	path = luci-apps/luci-app-ramfree
-	url = https://github.com/awesome-openwrt/luci-app-ramfree.git
+	url = git@github.com:awesome-openwrt/luci-app-ramfree.git
 [submodule "luci-apps/luci-app-ssr-plus"]
 	path = luci-apps/luci-app-ssr-plus
-	url = https://github.com/awesome-openwrt/luci-app-ssr-plus.git
+	url = git@github.com:awesome-openwrt/luci-app-ssr-plus.git
 [submodule "luci-apps/luci-app-ssr-plus-mini"]
 	path = luci-apps/luci-app-ssr-plus-mini
-	url = https://github.com/awesome-openwrt/luci-app-ssr-plus-mini.git
+	url = git@github.com:awesome-openwrt/luci-app-ssr-plus-mini.git
 [submodule "luci-apps/luci-app-syncthing"]
 	path = luci-apps/luci-app-syncthing
-	url = https://github.com/awesome-openwrt/luci-app-syncthing.git
+	url = git@github.com:awesome-openwrt/luci-app-syncthing.git
 [submodule "luci-apps/luci-app-usb-printer"]
 	path = luci-apps/luci-app-usb-printer
-	url = https://github.com/awesome-openwrt/luci-app-usb-printer.git
+	url = git@github.com:awesome-openwrt/luci-app-usb-printer.git
 [submodule "luci-apps/luci-app-vlmcsd"]
 	path = luci-apps/luci-app-vlmcsd
-	url = https://github.com/awesome-openwrt/luci-app-vlmcsd.git
+	url = git@github.com:awesome-openwrt/luci-app-vlmcsd.git
 [submodule "luci-apps/luci-app-webadmin"]
 	path = luci-apps/luci-app-webadmin
-	url = https://github.com/awesome-openwrt/luci-app-webadmin.git
+	url = git@github.com:awesome-openwrt/luci-app-webadmin.git
 [submodule "luci-apps/luci-app-xlnetacc"]
 	path = luci-apps/luci-app-xlnetacc
-	url = https://github.com/awesome-openwrt/luci-app-xlnetacc.git
+	url = git@github.com:awesome-openwrt/luci-app-xlnetacc.git
 [submodule "packages/brook"]
 	path = packages/brook
-	url = https://github.com/awesome-openwrt/brook.git
+	url = git@github.com:awesome-openwrt/brook.git
 [submodule "packages/chinadns-ng"]
 	path = packages/chinadns-ng
-	url = https://github.com/awesome-openwrt/chinadns-ng.git
+	url = git@github.com:awesome-openwrt/chinadns-ng.git
 [submodule "packages/ddns-scripts_aliyun"]
 	path = packages/ddns-scripts_aliyun
-	url = https://github.com/awesome-openwrt/ddns-scripts_aliyun.git
+	url = git@github.com:awesome-openwrt/ddns-scripts_aliyun.git
 [submodule "packages/dns2socks"]
 	path = packages/dns2socks
-	url = https://github.com/awesome-openwrt/dns2socks.git
+	url = git@github.com:awesome-openwrt/dns2socks.git
 [submodule "packages/ipt2socks"]
 	path = packages/ipt2socks
-	url = https://github.com/awesome-openwrt/ipt2socks.git
+	url = git@github.com:awesome-openwrt/ipt2socks.git
 [submodule "packages/luci-i18n-sqm"]
 	path = packages/luci-i18n-sqm
-	url = https://github.com/awesome-openwrt/luci-i18n-sqm.git
+	url = git@github.com:awesome-openwrt/luci-i18n-sqm.git
 [submodule "packages/microsocks"]
 	path = packages/microsocks
-	url = https://github.com/awesome-openwrt/microsocks.git
+	url = git@github.com:awesome-openwrt/microsocks.git
 [submodule "packages/pdnsd-alt"]
 	path = packages/pdnsd-alt
-	url = https://github.com/awesome-openwrt/pdnsd-alt.git
+	url = git@github.com:awesome-openwrt/pdnsd-alt.git
 [submodule "packages/redsocks2"]
 	path = packages/redsocks2
-	url = https://github.com/awesome-openwrt/redsocks2.git
+	url = git@github.com:awesome-openwrt/redsocks2.git
 [submodule "packages/shadowsocksr-libev"]
 	path = packages/shadowsocksr-libev
-	url = https://github.com/awesome-openwrt/shadowsocksr-libev.git
+	url = git@github.com:awesome-openwrt/shadowsocksr-libev.git
 [submodule "packages/simple-obfs"]
 	path = packages/simple-obfs
-	url = https://github.com/awesome-openwrt/simple-obfs.git
+	url = git@github.com:awesome-openwrt/simple-obfs.git
 [submodule "packages/syncthing"]
 	path = packages/syncthing
-	url = https://github.com/awesome-openwrt/syncthing.git
+	url = git@github.com:awesome-openwrt/syncthing.git
 [submodule "packages/tcping"]
 	path = packages/tcping
-	url = https://github.com/awesome-openwrt/tcping.git
+	url = git@github.com:awesome-openwrt/tcping.git
 [submodule "packages/trojan"]
 	path = packages/trojan
-	url = https://github.com/awesome-openwrt/trojan.git
+	url = git@github.com:awesome-openwrt/trojan.git
 [submodule "packages/v2ray"]
 	path = packages/v2ray
-	url = https://github.com/awesome-openwrt/v2ray.git
+	url = git@github.com:awesome-openwrt/v2ray.git
 [submodule "packages/v2ray-plugin"]
 	path = packages/v2ray-plugin
-	url = https://github.com/awesome-openwrt/v2ray-plugin.git
+	url = git@github.com:awesome-openwrt/v2ray-plugin.git
 [submodule "packages/vlmcsd"]
 	path = packages/vlmcsd
-	url = https://github.com/awesome-openwrt/vlmcsd.git
+	url = git@github.com:awesome-openwrt/vlmcsd.git
 [submodule "luci-apps/luci-app-flowoffload"]
 	path = luci-apps/luci-app-flowoffload
-	url = https://github.com/awesome-openwrt/luci-app-flowoffload.git
+	url = git@github.com:awesome-openwrt/luci-app-flowoffload.git
 [submodule "luci-apps/luci-app-autoreboot"]
 	path = luci-apps/luci-app-autoreboot
-	url = https://github.com/awesome-openwrt/luci-app-autoreboot.git
+	url = git@github.com:awesome-openwrt/luci-app-autoreboot.git
 [submodule "luci-apps/luci-app-smartdns"]
 	path = luci-apps/luci-app-smartdns
-	url = https://github.com/awesome-openwrt/luci-app-smartdns.git
+	url = git@github.com:awesome-openwrt/luci-app-smartdns.git
 [submodule "packages/tcpping"]
 	path = packages/tcpping
-	url = https://github.com/awesome-openwrt/tcpping.git
+	url = git@github.com:awesome-openwrt/tcpping.git
 [submodule "luci-apps/luci-app-aliddns"]
 	path = luci-apps/luci-app-aliddns
-	url = https://github.com/awesome-openwrt/luci-app-aliddns.git
+	url = git@github.com:awesome-openwrt/luci-app-aliddns.git
 [submodule "luci-apps/luci-app-clash"]
 	path = luci-apps/luci-app-clash
-	url = https://github.com/awesome-openwrt/luci-app-clash.git
+	url = git@github.com:awesome-openwrt/luci-app-clash.git
 [submodule "luci-apps/luci-app-openclash"]
 	path = luci-apps/luci-app-openclash
-	url = https://github.com/awesome-openwrt/luci-app-openclash.git
+	url = git@github.com:awesome-openwrt/luci-app-openclash.git
 [submodule "packages/smartdns"]
 	path = packages/smartdns
-	url = https://github.com/awesome-openwrt/smartdns.git
+	url = git@github.com:awesome-openwrt/smartdns.git
 [submodule "packages/adbyby"]
 	path = packages/adbyby
-	url = https://github.com/awesome-openwrt/adbyby.git
+	url = git@github.com:awesome-openwrt/adbyby.git
 [submodule "luci-apps/luci-app-adbyby-plus"]
 	path = luci-apps/luci-app-adbyby-plus
-	url = https://github.com/awesome-openwrt/luci-app-adbyby-plus.git
+	url = git@github.com:awesome-openwrt/luci-app-adbyby-plus.git
 [submodule "luci-apps/luci-app-netdata"]
 	path = luci-apps/luci-app-netdata
-	url = https://github.com/awesome-openwrt/luci-app-netdata.git
+	url = git@github.com:awesome-openwrt/luci-app-netdata.git
 [submodule "luci-apps/luci-app-control-mia"]
 	url = https://github.com/awesome-openwrt/luci-app-control-mia.git
 [submodule "packages/naiveproxy"]
 	path = packages/naiveproxy
-	url = https://github.com/awesome-openwrt/naiveproxy.git
+	url = git@github.com:awesome-openwrt/naiveproxy.git
 [submodule "packages/ssocks"]
 	path = packages/ssocks
-	url = https://github.com/awesome-openwrt/ssocks.git
+	url = git@github.com:awesome-openwrt/ssocks.git
 [submodule "packages/trojan-plus"]
 	path = packages/trojan-plus
-	url = https://github.com/awesome-openwrt/trojan-plus.git
+	url = git@github.com:awesome-openwrt/trojan-plus.git
 [submodule "packages/trojan-go"]
 	path = packages/trojan-go
-	url = https://github.com/awesome-openwrt/trojan-go.git
+	url = git@github.com:awesome-openwrt/trojan-go.git
 [submodule "packages/kcptun"]
 	path = packages/kcptun
-	url = https://github.com/awesome-openwrt/kcptun.git
+	url = git@github.com:awesome-openwrt/kcptun.git
