@@ -141,3 +141,12 @@
 [submodule "packages/naiveproxy"]
 	path = packages/naiveproxy
 	url = https://github.com/awesome-openwrt/naiveproxy.git
+[submodule "packages/ssocks"]
+	path = packages/ssocks
+	url = https://github.com/awesome-openwrt/ssocks.git
+[submodule "packages/trojan-plus"]
+	path = packages/trojan-plus
+	url = https://github.com/awesome-openwrt/trojan-plus.git
+[submodule "packages/trojan-go"]
+	path = packages/trojan-go
+	url = https://github.com/awesome-openwrt/trojan-go.git

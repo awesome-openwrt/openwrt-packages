@@ -63,6 +63,9 @@ change2git(){
     git submodule set-url packages/v2ray-plugin git@github.com:awesome-openwrt/v2ray-plugin.git
     git submodule set-url packages/vlmcsd git@github.com:awesome-openwrt/vlmcsd.git
     git submodule set-url packages/naiveproxy git@github.com:awesome-openwrt/naiveproxy.git
+    git submodule set-url packages/ssocks git@github.com:awesome-openwrt/ssocks.git
+    git submodule set-url packages/trojan-go git@github.com:awesome-openwrt/trojan-go.git
+    git submodule set-url packages/trojan-plus git@github.com:awesome-openwrt/trojan-plus.git
 }
 
 change2https(){
@@ -114,6 +117,9 @@ change2https(){
     git submodule set-url packages/v2ray-plugin https://github.com/awesome-openwrt/v2ray-plugin.git
     git submodule set-url packages/vlmcsd https://github.com/awesome-openwrt/vlmcsd.git
     git submodule set-url packages/naiveproxy https://github.com/awesome-openwrt/naiveproxy.git
+    git submodule set-url packages/ssocks https://github.com/awesome-openwrt/ssocks.git
+    git submodule set-url packages/trojan-go https://github.com/awesome-openwrt/trojan-go.git
+    git submodule set-url packages/trojan-plus https://github.com/awesome-openwrt/trojan-plus.git
 }
 
 while true; do
