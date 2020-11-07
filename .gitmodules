@@ -1,0 +1,21 @@
+[submodule "app-adbyby"]
+	path = app-adbyby
+	url = https://github.com/awesome-openwrt/app-adbyby.git
+[submodule "app-aliddns"]
+	path = app-aliddns
+	url = https://github.com/awesome-openwrt/app-aliddns.git
+[submodule "app-arpbind"]
+	path = app-arpbind
+	url = https://github.com/awesome-openwrt/app-arpbind.git
+[submodule "app-autoreboot"]
+	path = app-autoreboot
+	url = https://github.com/awesome-openwrt/app-autoreboot.git
+[submodule "app-ramfree"]
+	path = app-ramfree
+	url = https://github.com/awesome-openwrt/app-ramfree.git
+[submodule "app-passwall"]
+	path = app-passwall
+	url = https://github.com/awesome-openwrt/app-passwall.git
+[submodule "app-ssr-plus"]
+	path = app-ssr-plus
+	url = https://github.com/awesome-openwrt/app-ssr-plus.git
